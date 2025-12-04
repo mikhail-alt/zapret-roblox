@@ -1,3 +1,4 @@
+модифицированно yeno9ue
 > [!CAUTION]
 > Данный фикс не будет работать с впн или другими подобными вещами. Рекомендуеться к использованию включенный Game Filter(опция под номером 6 в service.bat) и general (ALT8).bat
 Модифицированная версия [zapret-youtube-discord](https://github.com/Flowseal/zapret-discord-youtube?tab=readme-ov-file#%D0%B0%D0%BD%D1%82%D0%B8%D0%B2%D0%B8%D1%80%D1%83%D1%81%D1%8B)
